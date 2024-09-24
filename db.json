@@ -1,0 +1,100 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "BMX Pro",
+      "type": "Bicicleta",
+      "year": "2021",
+      "salePrice": 200,
+      "rentailPrice": 20,
+      "description": "Bicicleta BMX diseñada para hacer trucos y saltos extremos.",
+      "url": "https://bmx.com",
+      "lat": -12.097423677490246,
+      "lng": -77.04481244087319
+    },
+    {
+      "id": 2,
+      "name": "Scooter Speedster",
+      "type": "Scooter",
+      "year": "2021",
+      "salePrice": 150,
+      "rentailPrice": 15,
+      "description": "Scooter eléctrico con velocidad máxima de 25 km/h y autonomía de 20 km.",
+      "url": "https://bmx.com",
+      "lat": -12.097423677494376,
+      "lng": -77.04481244087319
+    },
+    {
+      "id": 3,
+      "name": "Mountain Bike Explorer",
+      "type": "Bicicleta",
+      "year": "2021",
+      "salePrice": 300,
+      "rentailPrice": 30,
+      "description": "Bicicleta de montaña con suspensión doble para los terrenos más difíciles.",
+      "url": "https://bmx.com",
+      "lat": -12.097423677499346,
+      "lng": -77.04481244087219
+    },
+    {
+      "id": 4,
+      "name": "hola",
+      "type": "Bicicleta",
+      "year": "2021",
+      "salePrice": 0,
+      "rentailPrice": 0,
+      "description": "as",
+      "url": "https://bmx.com",
+      "lat": -12.110757131111548,
+      "lng": -77.04481244087219
+    },
+    {
+      "id": 5,
+      "name": "",
+      "type": "Bike",
+      "year": 2023,
+      "salePrice": 150,
+      "rentailPrice": 200,
+      "description": "Achu",
+      "url": "https://bmx.com",
+      "lat": -12.097423977490346,
+      "lng": -77.04481244087219
+    },
+    {
+      "id": 6,
+      "name": "Bike",
+      "type": "Bike",
+      "year": 2022,
+      "salePrice": 1500,
+      "rentailPrice": 140,
+      "description": "Super new bike",
+      "url": "https://bmx.com",
+      "lat": -12.097423677410346,
+      "lng": -77.04481244087219
+    },
+    {
+      "id": 7,
+      "name": "aaa",
+      "type": "Bike",
+      "year": 123,
+      "salePrice": 123,
+      "rentailPrice": 12312,
+      "description": "sdadasd",
+      "url": "https://bmx.com",
+      "lat": -12.097423607490345,
+      "lng": -77.04481244087219
+    },
+    {
+      "id": 8,
+      "name": "La superBicicleta",
+      "type": "rollskater",
+      "year": 2021,
+      "salePrice": 2000,
+      "rentailPrice": 3000,
+      "description": "Es la meejor BICI",
+      "url": "https://bmx.com",
+      "lat": -12.097343278386779,
+      "lng": -77.07080274350476
+    }
+  ]
+}
